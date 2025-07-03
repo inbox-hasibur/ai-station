@@ -36,9 +36,3 @@ Welcome to **AI Station**, a modular platform that brings together various AI se
 - **Backend:** Node.js / Express or FastAPI  
 - **DB (optional):** Firebase, MongoDB, or SQLite for session caching  
 - **Others:** Puppeteer, Axios, Cheerio for scraping (when needed)
-
-## 🤖 Getting Started
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/yourusername/ai-station.git
