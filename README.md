@@ -1,4 +1,4 @@
-# 🧠 AI Station – Unified Hub for the Smartest Tools
+# 🧠 AI Station – All free AI tools & APIs in one place.
 
 Welcome to **AI Station**, a modular platform that brings together various AI services—chat, image, audio, code generation, and more—under one roof. Whether accessed via official APIs or smart scraping, AI Station offers a seamless, all-in-one experience.
 
